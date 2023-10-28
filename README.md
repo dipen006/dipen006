@@ -113,7 +113,7 @@
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
    
-## 📫 How to reach me? <img align="center" src="" height="33px" /></h3> 
+## 📫 How to reach me? <img align="center" src="https://github.com/dipen006/dipen006/blob/main/README.md" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/dipenr06/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://dipen.hashnode.dev/) 🌐 <br>
