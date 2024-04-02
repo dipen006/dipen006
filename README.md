@@ -9,9 +9,9 @@
 
 <p><strong>Follow me around the web:</strong></p><br>
 
-<a href="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dipenr/" alt="LinkedIn"></a>
-<a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipen.06/" alt="Instagram"></a>
-<a href="https://twitter.com/dipenr06/" target="_blank"><img src="https://img.shields.io/badge/dipenr06-000000?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/dipenr06/" alt="Twitter"></a>
+<a href="https://https://www.linkedin.com/in/dipenr/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dipenr/" alt="LinkedIn"></a>
+<a href="https://instagram.com/dipenr.06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipen.06/" alt="Instagram"></a>
+<a href="https://twitter.com/dipenr06/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%66574.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.twitter.com/dipenr06/" alt="Twitter"></a>
 <a href="https://dipen.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://dipen.hashnode.dev/" alt="Hashnode"></a>
 <a href="mailto:rik.dipen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rik.dipen@gmail.com" alt="Gmail"></a>
 
